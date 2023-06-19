@@ -11,4 +11,4 @@
 
 ### Screen:
 
-![Uploading Simulator Screenshot - iPhone 14 Pro - 2023-06-19 at 11.05.13.png…]()
+<img src="https://github.com/alamin39/VideoFeed/assets/39402639/e2daeac8-156c-47a4-96ca-eb4b21268bfb" width="400" height="600">
