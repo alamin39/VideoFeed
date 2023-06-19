@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>432797475844-2iu52psqb7qh7bcn0ue3oq88qgk351cj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.432797475844-2iu52psqb7qh7bcn0ue3oq88qgk351cj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCyCwsZng7A8NLZJ7wOBf2UWc7ep-gt940</string>
+	<key>GCM_SENDER_ID</key>
+	<string>432797475844</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.alamin39.VideoFeed</string>
+	<key>PROJECT_ID</key>
+	<string>videofeed-8c584</string>
+	<key>STORAGE_BUCKET</key>
+	<string>videofeed-8c584.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:432797475844:ios:436debf5637ddb17cb8151</string>
+</dict>
+</plist>
