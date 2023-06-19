@@ -7,6 +7,8 @@
 - Firebase
 - Async await
 - MVVM
+- SPM
+- Xcode
 
 
 ### Screen:
