@@ -1,6 +1,6 @@
 # VideoFeed
 
-Technology :
+### Technology :
 
 - Swift
 - SwiftUI
@@ -9,6 +9,6 @@ Technology :
 - MVVM
 
 
-Screen:
+### Screen:
 
 ![Uploading Simulator Screenshot - iPhone 14 Pro - 2023-06-19 at 11.05.13.png…]()
